@@ -1,0 +1,10 @@
+ipykernel
+jupyter
+pandas
+numpy
+plotly
+plotly-express
+python-dotenv
+requests
+scipy
+statsmodels

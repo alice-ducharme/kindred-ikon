@@ -1,0 +1,17 @@
+# Python virtual environment
+ikon_kindred_env/
+
+# Environment variables and secrets
+.env
+.os
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
